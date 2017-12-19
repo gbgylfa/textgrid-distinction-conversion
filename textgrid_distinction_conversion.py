@@ -5,7 +5,7 @@
 
 The script takes two arguments: the directory containing the text grids and the directory for the output files. Note that this script assumes that your tiers are in order with phone tier first, then word tier, then phone tier, then word tier, and so on, with no extra tiers, and that words are in uppercase - standard output format for the FASE aligner.'''
 
-#__author__ = Duna Gylfadottir
+#__author__ = "Duna Gylfadottir"
 
 
 
